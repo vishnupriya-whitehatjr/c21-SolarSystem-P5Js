@@ -1,4 +1,4 @@
-class Sun{
+class Planet{
     constructor(x,y,radius,color1,color2,color3){
         
         this.x=x;
